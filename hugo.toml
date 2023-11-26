@@ -1,5 +1,5 @@
 languageCode = "en-us"
-baseURL = "//chanin.tech/"
+baseURL = "https://lolzone13.github.io/Portfolio/"
 title = "Mohit Manoj"
 paginate = 5
 theme = "PaperMod"
